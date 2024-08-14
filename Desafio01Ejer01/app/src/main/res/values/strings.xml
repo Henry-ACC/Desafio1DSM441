@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Desafio 01 Ejer 01</string>
+    <string name="NameEstudiante">Nombre del Estudiante</string>
+    <string name="Nota1">Nota 1</string>
+    <string name="Nota2">Nota 2</string>
+    <string name="Nota3">Nota 3</string>
+    <string name="Nota4">Nota 4</string>
+    <string name="Nota5">Nota 5</string>
+    <string name="CalcularBtn">Calcular Promedio</string>
+</resources>
